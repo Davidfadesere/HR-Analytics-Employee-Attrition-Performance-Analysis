@@ -1,5 +1,7 @@
 # HR-Analytics-Employee-Attrition-Performance-Analysis
-<img width="929" height="545" alt="HR Analytics Employee Attrition   Performance Analysis" src="https://github.com/user-attachments/assets/9cca5744-31a5-4961-8681-393d8ecd5f8a" />
+<img width="960" height="534" alt="HR Analytics Employee Attrition   Performance" src="https://github.com/user-attachments/assets/09737deb-a12c-49c3-9056-bd7d0ad5f14c" />
+
+<img width="959" height="542" alt="Screenshot 2026-01-23 103427" src="https://github.com/user-attachments/assets/be07048b-0dbe-4cb3-bdb8-cfff197d6985" />
 
 
 ## Project Overview
